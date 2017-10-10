@@ -1,1 +1,1 @@
-# CredenceCoin-Linux-Wallet
+# CredenceCoin-Linux Wallet v1.3.7.9
