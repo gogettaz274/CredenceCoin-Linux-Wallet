@@ -1,0 +1,1 @@
+# CredenceCoin-Linux-Wallet
